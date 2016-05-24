@@ -1,6 +1,7 @@
 from django.test import TestCase
 
 # Create your tests here.
+#creando nueva pruebita
 from ingreso_pacientes.models import Paciente
 
 
